@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  instagram: '',
+  instagram: 'https://www.instagram.com/carleenliu1998/',
   linkedin: 'linkedin.com/in/yutong-liu-89aa6718b',
 
   // default notion icon and cover images for site-wide consistency (optional)
