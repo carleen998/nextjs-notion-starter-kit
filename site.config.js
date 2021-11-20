@@ -13,13 +13,13 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageTitle: 'icon',
+  socialImageSubtitle: 'This is Yutong 👋',
 
   // social usernames (optional)
   twitter: '',
   instagram: '',
-  linkedin: 'yutong liu',
+  linkedin: 'linkedin.com/in/yutong-liu-89aa6718b',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
